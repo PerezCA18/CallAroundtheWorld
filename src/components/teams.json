@@ -1,0 +1,27 @@
+{
+    "Bolivia": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Kavi",
+                "link": "https://www.youtube.com/watch?v=N52bjHrINW8"
+            }
+        ],
+        "cities": {}
+    },
+    "Mexico": {
+        "teams": [
+            {
+                "year": "23.24",
+                "team": "Brio",
+                "link": "https://www.youtube.com/watch?v=NplpB2HHB9w"
+            },
+            {
+                "year": "24.25",
+                "team": "Kalei",
+                "link": "https://www.youtube.com/watch?v=uMO2SKfmkrw&list=RDuMO2SKfmkrw&start_radio=1"
+            }
+        ],
+        "cities": {}
+    }
+}
