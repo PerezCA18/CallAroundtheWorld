@@ -1,5 +1,5 @@
 import React from "react";
-import HomeIcon from "../src/assets/icons8-home-24.png";
+import HomeIcon from "../assets/icons8-home-24.png";
 import { Link } from 'react-router-dom';
 export function StickyNavbar() {
   const [openNav, setOpenNav] = React.useState(false);
