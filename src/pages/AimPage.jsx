@@ -8,7 +8,7 @@ export default function TeamsByCountry() {
   const { country: selectedCountryParam } = useParams(); // from URL
 
   useEffect(() => {
-    fetch("/src/components/teams.json")
+    fetch("/teams.json")
       .then((res) => res.json())
       .then((json) => {
         setData(json);
