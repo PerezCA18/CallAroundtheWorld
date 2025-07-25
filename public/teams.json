@@ -22,7 +22,22 @@
                 "link": "https://www.youtube.com/watch?v=uMO2SKfmkrw&list=RDuMO2SKfmkrw&start_radio=1"
             }
         ],
-        "cities": {}
+        "cities": {
+            "Puebla": [
+                {
+                    "year": "23.24",
+                    "team": "Henosis",
+                    "link": "https://www.youtube.com/watch?v=d8pd7re0fL0"
+                }
+            ],
+            "Queretaro": [
+                {
+                    "year": "22.23",
+                    "team": "Beat",
+                    "link": "https://www.youtube.com/watch?v=jAH4sPR-xAY"
+                }
+            ]
+        }
     },
     "United States of America": {
         "teams": [
@@ -35,6 +50,36 @@
                 "year": "23.24",
                 "team": "Quest",
                 "link": "https://youtu.be/OLzn-LKdC7c?si=Zv_JfGWoSD4Lntd0"
+            },
+            {
+                "year": "22.23",
+                "team": "Activate",
+                "link": "https://www.youtube.com/watch?v=sk9SK4By5h4"
+            },
+            {
+                "year": "21.22",
+                "team": "Limitless",
+                "link": "https://youtu.be/CuDU7C21t3o?feature=shared"
+            },
+            {
+                "year": "20.21",
+                "team": "Atlas",
+                "link": "https://youtu.be/DLsCc9Gkj0E?si=Y7V_2-cJ7jiOr298"
+            },
+            {
+                "year": "19.20",
+                "team": "Venture",
+                "link": "https://youtu.be/646bRfNq4uU?si=D9TAELecUALBy_LO"
+            },
+            {
+                "year": "17.18",
+                "team": "Apollo",
+                "link": "https://youtu.be/OQC2WV6--SY?si=0oLP-iOL_FBrPr8c"
+            },
+            {
+                "year": "16.17",
+                "team": "Flywheel",
+                "link": "https://youtu.be/kLM_IVvkmD8?si=FYrziWMqO_De5Hkb"
             }
         ],
         "cities": {
@@ -43,6 +88,16 @@
                     "year": "25.26",
                     "team": "Northwestern",
                     "link": "https://www.youtube.com/watch?v=xQmnVzFmlbY"
+                },
+                {
+                    "year": "12.13",
+                    "team": "Sexy and I know it",
+                    "link": "https://www.youtube.com/watch?v=CarrG886tRs"
+                },
+                {
+                    "year": "19.20",
+                    "team": "Everytime We Touch",
+                    "link": "https://youtu.be/8kjqNolkMbc?si=v0_gJfi85t4k71TU"
                 }
             ],
             "Miami": [
@@ -80,6 +135,26 @@
                 "year": "24.25",
                 "team": "Tuira",
                 "link": "https://youtu.be/KdGXkmKaX6k?si=C6z_jUVkZAher50A"
+            }
+        ],
+        "cities": {}
+    },
+    "Costa Rica": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Dukauk",
+                "link": "https://youtu.be/5Av7qb8pymg?si=exD1Zg-aOcAzS4fi"
+            }
+        ],
+        "cities": {}
+    },
+    "Nicaragua": {
+        "teams": [
+            {
+                "year": "22.23",
+                "team": "Bosawas",
+                "link": "https://youtu.be/60aZOA8ajgc?feature=shared"
             }
         ],
         "cities": {}
