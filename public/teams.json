@@ -158,5 +158,102 @@
             }
         ],
         "cities": {}
+    },
+    "Colombia": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Mambo",
+                "link": "https://youtu.be/SESQPs1a8W0?si=iZ_Rz5sA5WYQoqAf"
+            },
+            {
+                "year": "23.24",
+                "team": "Macondo",
+                "link": "https://youtu.be/y1pr-3ckCBE?si=CV3J1Rpsia8xaYoX"
+            },
+            {
+                "year": "22.23",
+                "team": "Solar",
+                "link": "https://youtu.be/DftDt1B7CeI?si=AoYOLTn8ZhlaWaRO"
+            }
+        ],
+        "cities": {}
+    },
+    "Brazil": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Move",
+                "link": "https://www.youtube.com/watch?v=1v8Vgjrh8iY"
+            }
+        ],
+        "cities": {}
+    },
+    "Peru": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Suyu",
+                "link": "https://www.youtube.com/watch?v=5WWdIEgYMdI"
+            }
+        ],
+        "cities": {}
+    },
+    "Romania": {
+        "teams": [],
+        "cities": {
+            "Bucharest": [
+                {
+                    "year": "24.25",
+                    "team": "Echo",
+                    "link": "https://www.youtube.com/watch?v=QLXkgEuncGI"
+                }
+            ]
+        }
+    },
+    "Italy": {
+        "teams": [
+            {
+                "year": "22.23",
+                "team": "Impulse",
+                "link": "https://www.youtube.com/watch?v=s7krTK-tuho&pp=ygUPcm9sbCBjYWxsIGl0YWx5"
+            },
+            {
+                "year": "23.24",
+                "team": "Sonic",
+                "link": "https://www.youtube.com/watch?v=yYdzolLdzNw"
+            }
+        ],
+        "cities": {}
+    },
+    "Ecuador": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Tsunki",
+                "link": "https://www.youtube.com/watch?v=Ty5M4QiLNlg&pp=ygUWZWN1YWRvciByb2xsY2FsbCAyNC4yNQ%3D%3D"
+            }
+        ],
+        "cities": {}
+    },
+    "Argentina": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Tango",
+                "link": "https://www.youtube.com/watch?v=_7CpNb3hVdE&pp=ygUYYXJnZW50aW5hIHJvbGxjYWxsIDI0LjI1"
+            }
+        ],
+        "cities": {}
+    },
+    "El Salvador": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "K'AT",
+                "link": "https://www.youtube.com/watch?v=4ElWyORXJE0&pp=ygUaZWwgc2FsdmFkb3Igcm9sbGNhbGwgMjQuMjU%3D"
+            }
+        ],
+        "cities": {}
     }
 }
