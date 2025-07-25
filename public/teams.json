@@ -23,5 +23,65 @@
             }
         ],
         "cities": {}
+    },
+    "United States of America": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Solaris",
+                "link": "https://youtu.be/TJS-DuEoQvM?feature=shared"
+            },
+            {
+                "year": "23.24",
+                "team": "Quest",
+                "link": "https://youtu.be/OLzn-LKdC7c?si=Zv_JfGWoSD4Lntd0"
+            }
+        ],
+        "cities": {
+            "Northwestern": [
+                {
+                    "year": "25.26",
+                    "team": "Northwestern",
+                    "link": "https://www.youtube.com/watch?v=xQmnVzFmlbY"
+                }
+            ],
+            "Miami": [
+                {
+                    "year": "15.16",
+                    "team": "Differentology",
+                    "link": "https://www.youtube.com/watch?v=KiZvQoA9HxU"
+                }
+            ]
+        }
+    },
+    "Canada": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Kiai",
+                "link": "https://youtu.be/qePBAULlvAw?feature=shared"
+            }
+        ],
+        "cities": {}
+    },
+    "Guatemala": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Q'ij",
+                "link": "https://youtu.be/f4hhFD9niwc?si=q2kWskCI8xkHe7aS"
+            }
+        ],
+        "cities": {}
+    },
+    "Panama": {
+        "teams": [
+            {
+                "year": "24.25",
+                "team": "Tuira",
+                "link": "https://youtu.be/KdGXkmKaX6k?si=C6z_jUVkZAher50A"
+            }
+        ],
+        "cities": {}
     }
 }
