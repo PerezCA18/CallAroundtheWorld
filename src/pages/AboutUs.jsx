@@ -9,8 +9,8 @@ export default function AboutUsPage() {
                     Call Around the World</h1>
             </div>
             <div className="text-white"> 
-                <h3 className="text-white">NOT ASSOCIATED WITH AIESEC INTERNATIONL{"\n"}</h3> 
-                <p>Just personal project to have a better archive of our "favorite" embarassing moments. I am not an expert programmer so expect bugs, glitches, and all kinds of malfunctions.</p> 
+                <h3 className="text-white">Call around the World v1.{"\n"}</h3> 
+                <p>Proyecto de recopilacion de Rollcalls. Suban sus Rollcalls favoritas por el form para actualizar la pagina.</p> 
 
             </div>   
         </div>
