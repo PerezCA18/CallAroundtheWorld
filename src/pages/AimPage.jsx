@@ -88,7 +88,7 @@ export default function TeamsByCountry() {
       {/* National Teams */}
       {nationalTeams.length > 0 && (
         <div>
-          <h3 className="text-xl font-semibold mb-2">MC Teams</h3>
+          <h3 className="text-xl font-semibold mb-2">MC Team</h3>
           <ul className="list-none ml-6 mb-4">
             {nationalTeams.map((team, index) => (
               <li key={index}>
@@ -110,7 +110,7 @@ export default function TeamsByCountry() {
       {/* City Teams */}
       {citiesWithMatchingTeams.length > 0 && (
         <div>
-          <h3 className="text-xl font-semibold mb-2">City Teams</h3>
+          <h3 className="text-xl font-semibold mb-2">LC Team</h3>
           {citiesWithMatchingTeams.map(({ city, teams }) => (
             <div key={city} className="ml-4 mb-4">
               <h4 className="font-semibold text-gray-700">{city}</h4>
