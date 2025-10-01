@@ -112,6 +112,18 @@
                     "year": "15.16",
                     "team": "Differentology",
                     "link": "https://www.youtube.com/watch?v=KiZvQoA9HxU"
+                },
+                {
+                    "year": "25.26",
+                    "team": "Sazon",
+                    "link": "https://youtu.be/le6b-1OEmkA"
+                }
+            ],
+            "Washington DC": [
+                {
+                    "year": "25.26",
+                    "team": "Unnamed",
+                    "link": "https://youtu.be/atXEZQfzSfg"
                 }
             ]
         }
@@ -184,7 +196,15 @@
                 "link": "https://youtu.be/DftDt1B7CeI?si=AoYOLTn8ZhlaWaRO"
             }
         ],
-        "cities": {}
+        "cities": {
+            "Manizales": [
+                {
+                    "year": "25.26",
+                    "team": "KUMANDAY",
+                    "link": "https://www.youtube.com/watch?v=XMLHQaFmPYE&list=RDXMLHQaFmPYE&start_radio=1&pp=ygUecHJlc2lkZW5jaWEgbWFuaXphbGVzIHJvbGxjYWxsoAcB"
+                }
+            ]
+        }
     },
     "Brazil": {
         "teams": [
