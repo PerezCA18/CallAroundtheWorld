@@ -26,7 +26,7 @@ export function StickyNavbar() {
           href="https://forms.gle/mcTYDSDLCk24zR1y6"
           className="text-white hover:text-teal-400 transition-colors duration-200 text-lg"
           >
-          Submit RC    
+          Submit Roll Call    
           </a>
         </li>
     </ul>
