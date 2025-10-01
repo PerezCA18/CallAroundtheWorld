@@ -36,6 +36,13 @@
                     "team": "Beat",
                     "link": "https://www.youtube.com/watch?v=jAH4sPR-xAY"
                 }
+            ],
+            "ITAM": [
+                {
+                    "year": "25.26",
+                    "team": "KINTSUGI",
+                    "link": "https://www.youtube.com/watch?v=SKIjZD7nc_M"
+                }
             ]
         }
     },
@@ -234,7 +241,29 @@
                 "link": "https://www.youtube.com/watch?v=Ty5M4QiLNlg&pp=ygUWZWN1YWRvciByb2xsY2FsbCAyNC4yNQ%3D%3D"
             }
         ],
-        "cities": {}
+        "cities": {
+            "Manabi": [
+                {
+                    "year": "25.26",
+                    "team": "Maris",
+                    "link": "https://www.youtube.com/watch?v=7jpL7WJYrC8"
+                }
+            ],
+            "PUCE": [
+                {
+                    "year": "25.26",
+                    "team": "Armonia",
+                    "link": "https://www.youtube.com/watch?v=YiVUEdaEEFw"
+                }
+            ],
+            "ESPE": [
+                {
+                    "year": "25.26",
+                    "team": "Exential",
+                    "link": "https://youtu.be/ZAXQp39-998?si=cBTO3ydYy3KflwU2"
+                }
+            ]
+        }
     },
     "Argentina": {
         "teams": [
