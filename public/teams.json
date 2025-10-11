@@ -122,7 +122,7 @@
             "Washington DC": [
                 {
                     "year": "25.26",
-                    "team": "DC",
+                    "team": "Unnamed",
                     "link": "https://youtu.be/atXEZQfzSfg"
                 }
             ]
@@ -249,6 +249,11 @@
                 "year": "23.24",
                 "team": "Sonic",
                 "link": "https://www.youtube.com/watch?v=yYdzolLdzNw"
+            },
+            {
+                "year": "16.17",
+                "team": "Italy",
+                "link": "https://www.youtube.com/watch?v=KK6JLgVglXY"
             }
         ],
         "cities": {}
@@ -301,6 +306,16 @@
                 "year": "24.25",
                 "team": "K'AT",
                 "link": "https://www.youtube.com/watch?v=4ElWyORXJE0&pp=ygUaZWwgc2FsdmFkb3Igcm9sbGNhbGwgMjQuMjU%3D"
+            }
+        ],
+        "cities": {}
+    },
+    "Turkey": {
+        "teams": [
+            {
+                "year": "18.19",
+                "team": "Sense",
+                "link": "https://www.youtube.com/watch?v=qULJxUITqv4&list=RDqULJxUITqv4&start_radio=1"
             }
         ],
         "cities": {}
